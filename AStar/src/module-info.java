@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Amris
+ *
+ */
+module AStar {
+}
